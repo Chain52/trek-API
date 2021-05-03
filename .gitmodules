@@ -1,0 +1,3 @@
+[submodule "trek-API-common"]
+	path = trek-API-common
+	url = https://github.com/Chain52/trek-API-common.git
